@@ -30,7 +30,7 @@ const MainVeiw = () => {
     <div className=" flex flex-col   pt-25 justify-center min-h-screen w-full bg-[#101114] px-4 gap-10">
 
       <h1 className=" mt-48 font-extrabold text-4xl md:text-6xl text-center tracking-tight text-white leading-snug">
-        The Largest NFT Data
+        The Largest NFT OnChain Data
         <span className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text tracking-normal text-transparent">
           Infrastructure
         </span>
